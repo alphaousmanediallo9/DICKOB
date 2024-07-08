@@ -117,7 +117,7 @@ const Seconnecte = () => {
       >
         <h4>
           <Typewriter
-            words={['Bonjour', 'Vous êtes sur la bonne', 'Page de connexion', 'Saisissez les.','Bonnes informations']}
+            words={['Bonjour', 'Vous allez bien ', 'La Page de connexion', 'Saisissez les.','Bonnes informations']}
             loop={10}
             cursor
             cursorStyle=" °"
